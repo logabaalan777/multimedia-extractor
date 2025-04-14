@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pymongo
+pillow
+pytesseract
+python-multipart
+streamlit
+git+https://github.com/openai/whisper.git
+vosk
+moviepy

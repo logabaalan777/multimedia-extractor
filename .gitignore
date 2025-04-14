@@ -1,0 +1,43 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# VS Code and PyCharm settings
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environment & config files
+.env
+.env.*
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Pylance
+*.pyi
+*.pyi.stub
+typings/
+
+# FastAPI & Streamlit auto-generated folders
+__pypackages__/
+.streamlit/
+
+# MongoDB dump (if generated locally)
+dump/
