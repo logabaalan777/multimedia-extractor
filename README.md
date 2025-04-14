@@ -92,14 +92,3 @@ streamlit run app.py
 2. Upload a PDF or TXT file
 3. Click "Extract Text"
 4. View the extracted content
-
-## 🛠️ Development Roadmap
-
-- [x] Project setup and structure
-- [ ] Extract text from image (OCR)
-- [ ] Extract text from audio (Whisper)
-- [ ] Extract text from video
-- [ ] Extract text from TXT and PDF
-- [ ] Language detection
-- [ ] Search extracted data using MongoDB
-- [ ] Multilingual UI support (Tamil, Hindi, etc.)
