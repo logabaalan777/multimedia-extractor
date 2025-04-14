@@ -16,29 +16,6 @@ A powerful application built with **Streamlit** (Frontend) and **FastAPI** (Back
 
 ---
 
-## 🚀 Getting Started
-
-### 🔧 1. Clone the Repository
-
-# Multimedia Extractor 🎯
-
-A powerful tool to extract text from various media formats including images, audio, video, and documents.
-
-![Multimedia Extractor](https://img.shields.io/badge/Multimedia-Extractor-blue)
-![Python](https://img.shields.io/badge/Python-3.9+-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-
-## 🌟 Features
-
-- Extract text from images using OCR technology
-- Transcribe speech from audio files
-- Extract text content from video files
-- Parse and extract text from documents (PDF, TXT)
-- Automatic language detection for extracted content
-- Search functionality through extracted content
-- Multilingual support
-- User-friendly web interface
-
 ## 🚀 Quick Start
 
 ### 📦 1. Clone the Repository
