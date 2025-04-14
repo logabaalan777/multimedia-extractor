@@ -44,20 +44,6 @@ uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 ```bash
 streamlit run app.py
 ```
-
-## 📁 Project Structure
-
-```
-.
-├── app.py                 # Streamlit frontend
-├── main.py                # FastAPI backend
-├── models/                # Pydantic models
-├── services/              # Image, audio, video processing logic
-├── utils/                 # Helper functions (language detection, saving history)
-├── requirements.txt       # Python dependencies
-└── README.md              # Project documentation
-```
-
 ## 🧪 Supported File Types
 
 | Media Type | Supported Formats |
